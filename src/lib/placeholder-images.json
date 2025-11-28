@@ -14,9 +14,9 @@
     },
     {
       "id": "product-arabika",
-      "description": "A bag of Arabika Gayo coffee beans.",
-      "imageUrl": "https://images.unsplash.com/photo-1584390687847-2b007779f437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb2ZmZWUlMjBwYWNrYWdlfGVufDB8fHx8MTc2NDMwMTUwOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "coffee package"
+      "description": "A cup of coffee next to a bag of Gayo coffee beans.",
+      "imageUrl": "https://images.unsplash.com/photo-1552346154-21d32810aba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2ZmZWUlMjBiYWd8ZW58MHx8fHwxNzE5NTMwOTYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee bag"
     },
     {
       "id": "product-robusta",
