@@ -15,7 +15,7 @@ const faqs = [
     answer: "Simpan kopi Anda di dalam wadah kedap udara, di tempat yang sejuk, kering, dan gelap. Hindari menyimpannya di kulkas atau freezer karena dapat menyerap kelembapan dan bau lain.",
   },
   {
-    question: "Dari mana KopiLoka mendapatkan biji kopinya?",
+    question: "Dari mana Kisting Coffeee mendapatkan biji kopinya?",
     answer: "Kami bekerja sama dengan petani kopi dari berbagai daerah unggulan di Indonesia, seperti Gayo, Toraja, Kintamani, dan banyak lagi. Kami berkomitmen pada praktik perdagangan yang adil dan berkelanjutan.",
   },
   {

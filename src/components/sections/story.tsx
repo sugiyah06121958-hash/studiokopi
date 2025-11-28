@@ -32,7 +32,7 @@ export default function Story() {
               Perjalanan Biji Kopi Kami
             </h2>
             <p className="text-muted-foreground">
-              Di KopiLoka, kami percaya bahwa secangkir kopi yang nikmat berawal dari biji kopi berkualitas dan proses yang teliti. Kami menjelajahi pelosok nusantara untuk menemukan biji kopi dengan karakter unik, membawanya ke ruang sangrai kami, dan mengubahnya menjadi mahakarya rasa yang siap Anda nikmati.
+              Di Kisting Coffeee, kami percaya bahwa secangkir kopi yang nikmat berawal dari biji kopi berkualitas dan proses yang teliti. Kami menjelajahi pelosok nusantara untuk menemukan biji kopi dengan karakter unik, membawanya ke ruang sangrai kami, dan mengubahnya menjadi mahakarya rasa yang siap Anda nikmati.
             </p>
             <div className="space-y-6 pt-4">
               {values.map((value, index) => (

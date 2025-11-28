@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'KopiLoka - Cita Rasa Kopi Nusantara',
+  title: 'Kisting Coffeee - Cita Rasa Kopi Nusantara',
   description: 'Temukan kenikmatan kopi bubuk dan sangrai asli Indonesia. Dari biji kopi pilihan, untuk secangkir kebahagiaan Anda.',
 };
 

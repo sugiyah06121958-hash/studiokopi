@@ -15,13 +15,13 @@ const testimonials = [
   {
     name: "Alex Johnson",
     title: "Pecinta Kopi",
-    quote: "Kopi Gayo dari KopiLoka benar-benar luar biasa. Rasanya otentik dan aromanya bikin nagih. Pengiriman juga cepat!",
+    quote: "Kopi Gayo dari Kisting Coffeee benar-benar luar biasa. Rasanya otentik dan aromanya bikin nagih. Pengiriman juga cepat!",
     imageId: "testimonial-1",
   },
   {
     name: "Sarah Lee",
     title: "Barista Rumahan",
-    quote: "Saya sudah mencoba banyak kopi, tapi House Blend dari KopiLoka punya tempat spesial. Sangat seimbang dan cocok untuk espresso.",
+    quote: "Saya sudah mencoba banyak kopi, tapi House Blend dari Kisting Coffeee punya tempat spesial. Sangat seimbang dan cocok untuk espresso.",
     imageId: "testimonial-2",
   },
   {
@@ -38,7 +38,7 @@ export default function Testimonials() {
       <div className="container">
         <div className="mb-12 text-center">
           <h2 className="font-headline text-3xl font-bold md:text-4xl">Apa Kata Mereka?</h2>
-          <p className="mt-2 text-muted-foreground">Cerita dari para pelanggan setia KopiLoka.</p>
+          <p className="mt-2 text-muted-foreground">Cerita dari para pelanggan setia Kisting Coffeee.</p>
         </div>
         <Carousel
           opts={{

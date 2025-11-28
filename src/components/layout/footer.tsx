@@ -49,7 +49,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} KopiLoka. Semua hak dilindungi undang-undang.</p>
+          <p>&copy; {new Date().getFullYear()} Kisting Coffeee. Semua hak dilindungi undang-undang.</p>
         </div>
       </div>
     </footer>
